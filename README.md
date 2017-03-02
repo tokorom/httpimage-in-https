@@ -1,0 +1,1 @@
+# httpimage-in-https
